@@ -1,0 +1,23 @@
+feature,mean_abs_shap
+num__amt,1.9900234
+cat__category,0.4052285
+cat__dob,0.0800462
+num__Unnamed: 0,0.07097015
+num__city_pop,0.06392245
+cat__gender,0.026141252
+num__unix_time,0.023160337
+num__cc_num,0.020951748
+cat__last,0.01643034
+cat__state,0.01625996
+cat__job,0.015597487
+cat__trans_date_trans_time,0.015063171
+cat__first,0.013262698
+num__zip,0.011747542
+cat__street,0.009360053
+cat__city,0.009328381
+num__lat,0.008233946
+cat__trans_num,0.0071943854
+num__long,0.004597426
+num__merch_long,0.004575407
+num__merch_lat,0.003236335
+cat__merchant,0.0018323038

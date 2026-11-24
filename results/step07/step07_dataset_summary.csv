@@ -1,0 +1,7 @@
+dataset,rows,cols,numeric_cols,categorical_cols,missing_total,missing_share,target_col,positive_count,positive_rate
+bank_fraud,1000000,32,27,5,0,0.0,target,11029,0.011029
+creditcard,283726,31,31,0,0,0.0,target,473,0.001667101358352777
+ecommerce,299695,17,12,5,0,0.0,target,6612,0.02206243013730626
+fraud_transactions,1296675,23,11,12,0,0.0,target,7506,0.005788651743883394
+ieee,590540,434,403,31,115523073,0.45074371905803934,target,20663,0.03499000914417313
+paysim,6362620,11,8,3,0,0.0,target,8213,0.001290820448180152

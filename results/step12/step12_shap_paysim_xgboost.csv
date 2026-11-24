@@ -1,0 +1,11 @@
+feature,mean_abs_shap
+num__newbalanceOrig,1.6079195
+num__oldbalanceOrg,1.4054526
+num__amount,0.64371765
+cat__type,0.4519336
+num__newbalanceDest,0.27246377
+cat__nameDest,0.21398959
+num__step,0.15251532
+num__oldbalanceDest,0.070473835
+cat__nameOrig,0.010927502
+num__isFlaggedFraud,4.1899243e-06
