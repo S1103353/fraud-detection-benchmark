@@ -1,0 +1,11 @@
+Data Sets/
+Outputs/
+Models/
+*.pkl
+*.joblib
+*.parquet
+*.csv.gz
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.log
